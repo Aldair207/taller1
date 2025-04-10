@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">taller1</string>
+    <string-array name="categorias">
+        <item>Deportes</item>
+        <item>Música</item>
+        <item>Cine</item>
+    </string-array>
+</resources>
